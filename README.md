@@ -12,7 +12,7 @@ I'm currently a Pre final year Btech student at VIT <br>I'm looking for help wit
 ![](https://nirzak-streak-stats.vercel.app/?user=adityagit2605&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagit2605&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
