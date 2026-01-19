@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Pre final year Btech student at VIT <br>I'm looking for help with open source and uprising tech<br>I'm currently learning to build independent applications
+I'm currently a Pre final year Btech student at VIT <br>I'm looking for help with open source and uprising tech<br>I'm currently learning to build independent applications
 
 
 ## 🌐 Socials:
